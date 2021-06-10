@@ -1,0 +1,26 @@
+﻿  CGra.cpp
+  CMenu.cpp
+C:\Users\elson\source\repos\PROJEKT BOMBERMAN PK4\PROJEKT BOMBERMAN PK4\CMenu.cpp(28,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\elson\source\repos\PROJEKT BOMBERMAN PK4\PROJEKT BOMBERMAN PK4\CMenu.cpp(92,18): warning C4566: character represented by universal-character-name '\u017C' cannot be represented in the current code page (1252)
+C:\Users\elson\source\repos\PROJEKT BOMBERMAN PK4\PROJEKT BOMBERMAN PK4\CMenu.cpp(104,28): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\elson\source\repos\PROJEKT BOMBERMAN PK4\PROJEKT BOMBERMAN PK4\CMenu.cpp(105,28): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\elson\source\repos\PROJEKT BOMBERMAN PK4\PROJEKT BOMBERMAN PK4\CMenu.cpp(198,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  PROJEKT BOMBERMAN PK4.vcxproj -> C:\Users\elson\source\repos\PROJEKT BOMBERMAN PK4\Debug\PROJEKT BOMBERMAN PK4.exe

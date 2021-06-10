@@ -1,0 +1,27 @@
+﻿  CMenu.cpp
+C:\Users\elson\source\repos\PROJEKT BOMBERMAN PK4\PROJEKT BOMBERMAN PK4\CMenu.cpp(21,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\elson\source\repos\PROJEKT BOMBERMAN PK4\PROJEKT BOMBERMAN PK4\CMenu.cpp(83,28): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\elson\source\repos\PROJEKT BOMBERMAN PK4\PROJEKT BOMBERMAN PK4\CMenu.cpp(84,28): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\elson\source\repos\PROJEKT BOMBERMAN PK4\PROJEKT BOMBERMAN PK4\CMenu.cpp(177,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 295 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PROJEKT BOMBERMAN PK4.vcxproj -> C:\Users\elson\source\repos\PROJEKT BOMBERMAN PK4\Release\PROJEKT BOMBERMAN PK4.exe
